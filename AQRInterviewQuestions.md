@@ -24,5 +24,10 @@ ex. I Am Ramya => I mA aymaR
 6. Diff between abstract classes and interfaces, when to use what
 7. Explain the service lifetimes in DI container
 
+## Technical Round 3 System Design - Vishal
 
+1. Current Project, APIs created, other stuff you worked on
+2. When creating an API, what factors do you consider, how do ou design an API
+3. What is a rate limiter
+4. How would you design a rate limiter
 
