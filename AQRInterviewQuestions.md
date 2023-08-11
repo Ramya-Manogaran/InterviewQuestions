@@ -31,3 +31,13 @@ ex. I Am Ramya => I mA aymaR
 3. What is a rate limiter
 4. How would you design a rate limiter
 
+## Technical Round 4 with manager
+
+1. Tell briefly about your education and current project experience
+2. Rate yourself in c#
+3. explained about work in AQR and what i would be specifically working on
+4. Gave control to her laptop and asked me to write code to return State with highest population given a table with State, City , Population columns.
+5. Why are you looking for other job even though you already have an offer
+6. What will be the deciding factor in which company you'll be choosing to join
+7. Why did you choose electronics instead of computer science in college
+
